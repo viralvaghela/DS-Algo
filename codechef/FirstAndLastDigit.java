@@ -39,7 +39,6 @@ class Main {
                 String last = String.valueOf(no.charAt(no.length() - 1));
                 int no1=Integer.valueOf(first);
                 int no2=Integer.valueOf(last);
-        
                 System.out.println(no1+no2);   
                 T--;
            }
